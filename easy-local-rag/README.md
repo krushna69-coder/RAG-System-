@@ -1,7 +1,7 @@
 # SuperEasy 100% Local RAG with Ollama + Email RAG
 
 ### Setup
-1. git clone https://github.com/AllAboutAI-YT/easy-local-rag.git
+1. git clone (https://github.com/krushna69-coder/RAG-System-.git)
 2. cd dir
 3. pip install -r requirements.txt
 4. Install Ollama (https://ollama.com/download)
@@ -12,7 +12,7 @@
 9. run localrag_no_rewrite.py (no query re-write)
 
 ### Email RAG Setup
-1. git clone https://github.com/AllAboutAI-YT/easy-local-rag.git
+1. git clone (https://github.com/krushna69-coder/RAG-System-.git)
 2. cd dir
 3. pip install -r requirements.txt
 4. Install Ollama (https://ollama.com/download)
